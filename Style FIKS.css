@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{
+    font-family: 'Playfair Display', serif;
+    font: bolder;
+    font-weight: bolder;
+    font-size: 70px;
+	margin-left: 20px;
+}
+p{
+    font-family: 'Lora', serif;
+    font-size: xx-large;
+	
+}
+a{
+    text-decoration: none;
+    color: #fef5ed;
+    font-family: 'Lora', serif;
+    text-align: left;
+}
+li{
+	font-family: 'Lora', serif;
+}
